@@ -16,6 +16,10 @@ https://youtu.be/RphJDHxQl-M?si=pTCXja48uyZAIwWe
 **Operating System - 10%**
 
 **Data Structure - 10%**
+-
+https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+
+
 
 Programming Concepts (C, C++, Java, .Net, Python, etc.) - 10%
 

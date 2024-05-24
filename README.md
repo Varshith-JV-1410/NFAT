@@ -14,6 +14,8 @@ https://youtu.be/RphJDHxQl-M?si=pTCXja48uyZAIwWe
 
 **Operating System - 10%**
 -
+https://youtu.be/xw_OuOhjauw?si=-3yDDH9QaHDeD1tV
+
 
 
 **Data Structure - 10%**

@@ -18,7 +18,6 @@ https://youtu.be/RphJDHxQl-M?si=pTCXja48uyZAIwWe
 
 **Data Structure - 10%**
 -
-https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 
 
 **Programming Concepts (C, C++, Java, .Net, Python, etc.) - 10%**
@@ -27,7 +26,7 @@ https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 
 **Database Management System - 5%**
 -
-
+https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 
 **Emerging Trends and Technology (Basics of AI, ML, Blockchain, and IOT)- 10%**
 -

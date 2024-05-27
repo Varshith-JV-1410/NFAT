@@ -21,6 +21,7 @@ https://youtu.be/8XBtAjKwCm4?si=1ymPpTiCfLzzkER-
 
 **Data Structure - 10%**
 -
+https://youtu.be/J0OvDNmAWNw?si=dNqtrdxi-yQ7T4sQ
 
 
 **Programming Concepts (C, C++, Java, .Net, Python, etc.) - 10%**

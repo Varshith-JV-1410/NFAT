@@ -3,7 +3,7 @@ All the material needed for nfat (msc. digital forensics) preparation
 
 <h1>Syllabus<h1>
 
-<h2>1. Networking - 10%<h2>
+**Networking - 10%**
 -
 https://youtu.be/q3Z3Qa1UNBA?si=93MNy3Iwc122qcPK
 
